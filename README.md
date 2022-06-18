@@ -31,6 +31,14 @@ Pictured here is the lot_summary chart a group_by function was added to the begi
 
 ## Study Design: MechaCar vs Competition
 ### What metric or metrics are you going to test?
+
+I am interested in testing the efficacy of external solar panels on vehicles.
+
 ### What is the null hypothesis or alternative hypothesis?
+
+The null hypothesis is that external solar panels result in a net zero energy production. The alternative hypothethis is that these external solar panels could result in substantial vaule added, whether it be to powering phones, heating/ac, or potentially value added back to the grid.
+
 ### What statistical test would you use to test the hypothesis? And why?
+A linear regression test could be applied continuously with two categories: solar panel added, and solar panels sans. Numerical data could be applied and stored for later analysis.
 ### What data is needed to run the statistical test?
+The solar panel added category would need data recorded in kWh per sqaure meter, and a cost-benefit analysis would be necesary to gauge customer interest.
