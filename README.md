@@ -15,3 +15,6 @@ Is the slope of the linear model considered to be zero? Why or why not?
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
 The linear model does predict the mpg of their prototypes efficiently. This is the case because the p-values for both the spoiler angle column and the AWD column are greater than .05. This indicates they do not strongly correlate with our x-axis, mpg. The addition of a spoiler to a car (disregarding competitive race series i.e. Formula 1, NASCAR) has no purpose other than aesthetics for the average driver, and should not/does not have an impact on mpg. Secondly, All Wheel Drive is a different powertrain and has no baring on internal or external factors related to mpg of a vehicle. The p-values discussed in Q1 provide analysis of the other columns, and do not need re-iteration.
+
+## Summary Statistics on Suspension Coils
+
