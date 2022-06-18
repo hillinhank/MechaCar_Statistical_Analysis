@@ -18,3 +18,6 @@ The linear model does predict the mpg of their prototypes efficiently. This is t
 
 ## Summary Statistics on Suspension Coils
 
+
+## T-Tests on Suspension Coils
+
